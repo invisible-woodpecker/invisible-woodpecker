@@ -1,5 +1,4 @@
 # **Turtle Runaway 과제**
----
 ### *Add a timer*
 게임 시작과 함께 시간이 0부터 출력되도록 작성하였습니다.
 ### *Add your Turtle*
